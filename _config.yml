@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo Template
-subtitle: ''
-description: ''
+title: Bless Tuanzi Forever
+subtitle: A sweet and kind girl with true feelings.
+description: 
 keywords:
-author: JiJi
-language: en
+author: Miomiya Kotori
+language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://jiji.pro/hexo-template
+url: https://ktuanzi2023.github.io
 permalink: :title/
 permalink_defaults:
 pretty_urls:
@@ -104,4 +104,4 @@ theme: landscape
 deploy:
   type: ''
 
-root: /hexo-template
+
