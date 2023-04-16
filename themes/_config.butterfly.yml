@@ -51,10 +51,10 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://www.yalsam.com/wp-content/uploads/2023/04/URARA01.jpg
+index_img: https://s1.vika.cn/space/2023/04/04/908be0686fb743718da19fd48887d6ec
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: https://www.yalsam.com/wp-content/uploads/2023/04/URARA01.jpg
+default_top_img: https://s1.vika.cn/space/2023/04/04/908be0686fb743718da19fd48887d6ec
 
 # The banner image of archive page
 archive_img: https://www.yalsam.com/wp-content/uploads/2023/04/URARA01.jpg
