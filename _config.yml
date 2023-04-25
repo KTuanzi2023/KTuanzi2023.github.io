@@ -104,4 +104,7 @@ theme: butterfly
 deploy:
   type: ''
 
+aplayer:
+  meting: true
+  asset_inject: false
 
